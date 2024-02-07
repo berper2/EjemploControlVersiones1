@@ -14,6 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 r<-2
 Area <- pi*r^2
+
+Lado<-3
+AreaC <- Lado^2
 ```
 
 
